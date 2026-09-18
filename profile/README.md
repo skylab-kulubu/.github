@@ -79,6 +79,7 @@ Kulüp üyesiysen ekibinin reposuna katkıda bulunabilirsin. Dışarıdan katkı
 
 ## İletişim
 
+📧 info@yildizskylab.com
 📧 skylab.ytu@gmail.com
 🌐 [yildizskylab.com](https://yildizskylab.com)
 
